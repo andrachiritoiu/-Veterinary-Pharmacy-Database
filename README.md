@@ -26,6 +26,6 @@ This project implements a relational database system for managing a veterinary p
 
 - **Prescriptions**: save veterinary prescriptions linked to pharmaceutical products.
 
-Orders & Sales: process orders, generate invoices, record payments.
+- **Orders & Sales**: process orders, generate invoices, record payments.
 
-Reporting: stock levels, sales over time, top-selling products.
+- **Reporting**: stock levels, sales over time, top-selling products.
