@@ -18,13 +18,13 @@ Acest proiect implementează un sistem de gestionare a unei farmacii veterinare 
 This project implements a relational database system for managing a veterinary pharmacy. It tracks medication inventory, customer orders (pet owners), veterinarian prescriptions, and financial transactions.
 
 ### Key Features
-Product Management: add, update, delete medications and supplements.
+- **Product Management**: add, update, delete medications and supplements.
 
-Inventory Control: view current stock, low-stock alerts.
+- **Inventory Control**: view current stock, low-stock alerts.
 
-Customers & Pets: register owners and their pets’ details.
+- **Customers & Pets**: register owners and their pets’ details.
 
-Prescriptions: save veterinary prescriptions linked to pharmaceutical products.
+- **Prescriptions**: save veterinary prescriptions linked to pharmaceutical products.
 
 Orders & Sales: process orders, generate invoices, record payments.
 
